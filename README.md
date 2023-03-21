@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditi416-i
-- 👀 I’m interested in Front End Development, UI/UX design, System Design and Blockchain
-- 🌱 I’m currently learning Machine Learning, Blockchain Implementation 
+- 👀 I’m interested in Front End Development, UI/UX design, System Design and Product Management
+- 🌱 I’m currently learning  Blockchain Implementation, Machine Learning
 
 
 <!---
