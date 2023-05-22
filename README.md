@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditi416-i
-- 👀 I’m interested in Front End Development, UI/UX design, System Design and Product Management
-- 🌱 I’m currently learning  Blockchain Implementation, Machine Learning
+- 👀  Full- Stack Developer || DevOps || System Design || Product Management || UI/UX Design ||
+- 🌱 Working with DevOps, Serverless computing, Micro and Nano Services
 
 
 <!---
