@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditi416-i
-- 👀  Full- Stack Developer || DevOps || System Design || Product Management || UI/UX Design ||
+- 👀  Developer || DevOps || System Design || Product Management || UI/UX Design ||
 - 🌱 Working with DevOps, Serverless computing, Micro and Nano Services
 
 
